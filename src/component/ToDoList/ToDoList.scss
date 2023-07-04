@@ -1,0 +1,45 @@
+ol{
+    text-align: center;
+}
+h1{
+    text-align: center;
+}
+.form{
+    display: flex;
+ justify-content: center;
+}
+.input1{
+    width: 400px;
+    height: 30px;
+    padding-left: 10px;
+}
+.delete{
+    background-color: red;
+    border: none;
+    width: 60px;
+    padding: 10px;
+    border-radius: 3px;
+    margin-left: 10px;
+}
+.edit{
+    background-color: green;
+    border: none;
+    width: 60px;
+    padding: 10px;
+    border-radius: 3px;
+
+}
+.input{
+    width: 200px;
+    height: 30px;
+    padding-left: 10px;
+
+}
+.btn{
+    background-color: green;
+    border: none;
+    width: 60px;
+    padding: 10px;
+    border-radius: 3px;
+
+}
